@@ -1,0 +1,11 @@
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*._*
+*-
+*_old.*
+
+
+!.gitkeep
